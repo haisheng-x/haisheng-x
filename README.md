@@ -1,7 +1,13 @@
 ## Hi there 👋 
 
 这里是海泩的写作本
+# 我的博客
 
+这是我的第一篇文章。
+
+
+
+发布时间：{% include time戳生成 %}
 <!--
 **haisheng-x/haisheng-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
