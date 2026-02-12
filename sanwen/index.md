@@ -5,16 +5,9 @@ nav_order: 1
 has_children: true
 ---
 
-# 📚 Documentation
+# 📚 导语
 
-| Category | Description | URL |
-|----------|-------------|-----|
-| [🏠 Home](#) | Main page | / |
-| [📝 Notes](notes/) | Personal notes | /notes/ |
-| [💻 Projects](projects/) | Code projects | /projects/ |
-| [🔬 Research](research/) | Academic papers | /research/ |
+我喜欢写一些姑且可以称为散文的平平淡淡的文字，估计集合在这里吧。
 
-## Quick Links
-- [Notes Overview](notes/index.md)
-- [Project 1](projects/project1.md) 
-- [Research Paper](research/paper1.md)
+
+# 📑 精选列表
