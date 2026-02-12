@@ -12,3 +12,26 @@ collections:
   海的故事: 
     name: 海的故事
     output: true
+  
+  Guqing: 
+    name: 丝弦
+    output: true
+    
+# Enable HTML in collections
+defaults:
+  - scope:
+      path: ""
+      type: sanwen
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: haigushi
+    values:
+      layout: default
+      
+  - scope:
+      path: ""
+      type: Guqing
+    values:
+      layout: default
