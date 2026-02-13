@@ -1,4 +1,10 @@
 name: Deploy MkDocs
+theme:
+  name: material
+
+plugins:
+  - search
+
 on: [push, pull_request]
 jobs:
   deploy:
