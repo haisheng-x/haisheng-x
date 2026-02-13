@@ -3,35 +3,4 @@ remote_theme: just-the-docs/just-the-docs
   
 title: 海泩文字集
 description: 记录从生活中走出的文字
-
-# Folder collections (auto sidebar!)
-collections:
-  泩散文:
-    name: 泩散文
-    output: true
-  海的故事: 
-    name: 海的故事
-    output: true
-  
-  Guqing: 
-    name: 丝弦
-    output: true
-    
-# Enable HTML in collections
-defaults:
-  - scope:
-      path: ""
-      type: sanwen
-    values:
-      layout: default
-  - scope:
-      path: ""
-      type: haigushi
-    values:
-      layout: default
-      
-  - scope:
-      path: ""
-      type: Guqing
-    values:
-      layout: default
+search_enabled: true
