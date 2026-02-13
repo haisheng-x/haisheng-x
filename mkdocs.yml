@@ -1,7 +1,5 @@
-site_name: My site
+site_name:   
 site_url: https://haishion7.github.io
-theme:
-  name: material
 theme:
   name: material
   language: zh  # Enables Chinese UI and search
