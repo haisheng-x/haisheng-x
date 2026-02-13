@@ -1,20 +1,10 @@
 ---
 layout: default
 title: 海的故事
-nav_order: 2
+parent: 海泩文字集
+nav_order: 1
 has_children: true
 ---
 
-# 📚 Documentation
-
-| Category | Description | URL |
-|----------|-------------|-----|
-| [🏠 Home](#) | Main page | / |
-| [📝 Notes](notes/) | Personal notes | /notes/ |
-| [💻 Projects](projects/) | Code projects | /projects/ |
-| [🔬 Research](research/) | Academic papers | /research/ |
-
-## Quick Links
-- [Notes Overview](notes/index.md)
-- [Project 1](projects/project1.md) 
-- [Research Paper](research/paper1.md)
+# 📚 导语
+有时脑海里会蹦出零散的念头，像糖丝缠上了一根木棍子，滚啊滚成了一团故事。
