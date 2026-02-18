@@ -1,4 +1,4 @@
-<div class="giscus"></div>
+<div class="giscus" id="comments"></div>
 <script src="https://giscus.app/client.js"
         data-repo="haishion7/haishion7.github.io"
         data-repo-id="R_kgDORNRb3Q"
