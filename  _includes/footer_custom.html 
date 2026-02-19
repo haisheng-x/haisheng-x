@@ -1,5 +1,5 @@
 <div class="giscus" id="comments">
-<script src="https://giscus.app/client.js"
+  <script src="https://giscus.app/client.js"
         data-repo="haishion7/haishion7.github.io"
         data-repo-id="R_kgDORNRb3Q"
         data-category="General"
@@ -13,5 +13,5 @@
         data-lang="zh-CN"
         crossorigin="anonymous"
         async>
-</script>
+  </script>
 </div>
